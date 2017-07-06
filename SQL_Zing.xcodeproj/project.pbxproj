@@ -7,14 +7,70 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		050C2F271EA69AED00D6D701 /* Anh Bỏ Thuốc Em Sẽ Yêu - Lyna Thùy Linh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 050C2F221EA69AED00D6D701 /* Anh Bỏ Thuốc Em Sẽ Yêu - Lyna Thùy Linh.jpg */; };
+		050C2F281EA69AED00D6D701 /* Anh Cứ Đi Đi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 050C2F231EA69AED00D6D701 /* Anh Cứ Đi Đi.jpg */; };
+		050C2F291EA69AED00D6D701 /* Bí Mật Bị Thời Gian Vùi Lấp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 050C2F241EA69AED00D6D701 /* Bí Mật Bị Thời Gian Vùi Lấp.jpg */; };
+		050C2F2A1EA69AED00D6D701 /* Đếm Ngày Xa Em - Lou Hoàng,OnlyC.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 050C2F251EA69AED00D6D701 /* Đếm Ngày Xa Em - Lou Hoàng,OnlyC.jpg */; };
+		050C2F2B1EA69AED00D6D701 /* Yêu Một Người Không Sai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 050C2F261EA69AED00D6D701 /* Yêu Một Người Không Sai.jpg */; };
+		0521163F1EA611EB006ED15C /* btn_add@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0521163E1EA611EA006ED15C /* btn_add@1x.png */; };
+		052116411EA621B0006ED15C /* ViewControllerBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052116401EA621B0006ED15C /* ViewControllerBase.swift */; };
+		052116431EA621DD006ED15C /* ViewControllerTableBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052116421EA621DD006ED15C /* ViewControllerTableBase.swift */; };
+		052116451EA62230006ED15C /* ViewControllerCollectionBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052116441EA62230006ED15C /* ViewControllerCollectionBase.swift */; };
+		052116471EA622CD006ED15C /* ViewSongs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052116461EA622CD006ED15C /* ViewSongs.swift */; };
+		052116491EA622E1006ED15C /* ViewAlbums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052116481EA622E1006ED15C /* ViewAlbums.swift */; };
+		0521164B1EA622F7006ED15C /* ViewArtists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0521164A1EA622F7006ED15C /* ViewArtists.swift */; };
+		0521164D1EA6230B006ED15C /* ViewPlaylists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0521164C1EA6230B006ED15C /* ViewPlaylists.swift */; };
+		055B78831F02A20400815E02 /* TableViewCellBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055B78821F02A20400815E02 /* TableViewCellBase.swift */; };
+		055B78861F02BD8600815E02 /* TableViewCellSong.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055B78851F02BD8600815E02 /* TableViewCellSong.swift */; };
+		055B78881F02C04D00815E02 /* TableViewCellArtist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055B78871F02C04D00815E02 /* TableViewCellArtist.swift */; };
+		055B788A1F02C0A300815E02 /* TableViewCellPlaylist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055B78891F02C0A300815E02 /* TableViewCellPlaylist.swift */; };
+		055B788D1F02D54100815E02 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055B788C1F02D54100815E02 /* ListView.swift */; };
+		055B78901F02D96B00815E02 /* Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055B788F1F02D96B00815E02 /* Label.swift */; };
+		055B78921F02FCE600815E02 /* Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055B78911F02FCE600815E02 /* Protocol.swift */; };
+		055B78951F03047000815E02 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055B78941F03047000815E02 /* AddView.swift */; };
 		05721BD71EA362C2003796D8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05721BD61EA362C2003796D8 /* AppDelegate.swift */; };
 		05721BD91EA362C3003796D8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05721BD81EA362C3003796D8 /* ViewController.swift */; };
 		05721BDC1EA362C3003796D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05721BDA1EA362C3003796D8 /* Main.storyboard */; };
 		05721BDE1EA362C3003796D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05721BDD1EA362C3003796D8 /* Assets.xcassets */; };
 		05721BE11EA362C3003796D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05721BDF1EA362C3003796D8 /* LaunchScreen.storyboard */; };
+		05721BEA1EA36866003796D8 /* DataBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05721BE91EA36866003796D8 /* DataBase.swift */; };
+		05721BEC1EA3F248003796D8 /* libsqlite3.0.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 05721BEB1EA3F248003796D8 /* libsqlite3.0.tbd */; };
+		05D87A2C1EA89E8500C975DC /* Chỉ Mong Trái Tim Người.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05D87A291EA89E8500C975DC /* Chỉ Mong Trái Tim Người.jpg */; };
+		05D87A2D1EA89E8500C975DC /* Chiến Binh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05D87A2A1EA89E8500C975DC /* Chiến Binh.jpg */; };
+		05D87A2E1EA89E8500C975DC /* Tình Yêu Nhạt Màu (Bí Mật Bị Thời Gian Vùi Lấp OST).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05D87A2B1EA89E8500C975DC /* Tình Yêu Nhạt Màu (Bí Mật Bị Thời Gian Vùi Lấp OST).jpg */; };
+		05D87A371EA8A04B00C975DC /* Anh Cứ Đi Đi - Hari Won.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05D87A321EA8A04A00C975DC /* Anh Cứ Đi Đi - Hari Won.jpg */; };
+		05D87A381EA8A04B00C975DC /* Điệp Khúc Mùa Xuân.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05D87A331EA8A04B00C975DC /* Điệp Khúc Mùa Xuân.jpg */; };
+		05D87A401EA8A06B00C975DC /* Đếm Ngày Xa Em.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05D87A3D1EA8A06B00C975DC /* Đếm Ngày Xa Em.jpg */; };
+		05D87A411EA8A06B00C975DC /* LOUHOANG.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05D87A3E1EA8A06B00C975DC /* LOUHOANG.jpg */; };
+		05D87A421EA8A06B00C975DC /* Yêu Một Người Có Lẽ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05D87A3F1EA8A06B00C975DC /* Yêu Một Người Có Lẽ.jpg */; };
+		05D87A471EA8A08E00C975DC /* Anh Bỏ Thuốc Em Sẽ Yêu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05D87A441EA8A08E00C975DC /* Anh Bỏ Thuốc Em Sẽ Yêu.jpg */; };
+		05D87A481EA8A08E00C975DC /* Gái Nhà Lành.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05D87A451EA8A08E00C975DC /* Gái Nhà Lành.jpg */; };
+		05D87A491EA8A08E00C975DC /* LYNA THÙY LINH.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05D87A461EA8A08E00C975DC /* LYNA THÙY LINH.jpg */; };
+		58EC5F0E8F96C67E3DC3F076 /* Pods_SQL_Zing.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C754495EB05B266C04AC117 /* Pods_SQL_Zing.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		050C2F221EA69AED00D6D701 /* Anh Bỏ Thuốc Em Sẽ Yêu - Lyna Thùy Linh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Anh Bỏ Thuốc Em Sẽ Yêu - Lyna Thùy Linh.jpg"; sourceTree = "<group>"; };
+		050C2F231EA69AED00D6D701 /* Anh Cứ Đi Đi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Anh Cứ Đi Đi.jpg"; sourceTree = "<group>"; };
+		050C2F241EA69AED00D6D701 /* Bí Mật Bị Thời Gian Vùi Lấp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bí Mật Bị Thời Gian Vùi Lấp.jpg"; sourceTree = "<group>"; };
+		050C2F251EA69AED00D6D701 /* Đếm Ngày Xa Em - Lou Hoàng,OnlyC.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Đếm Ngày Xa Em - Lou Hoàng,OnlyC.jpg"; sourceTree = "<group>"; };
+		050C2F261EA69AED00D6D701 /* Yêu Một Người Không Sai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Yêu Một Người Không Sai.jpg"; sourceTree = "<group>"; };
+		0521163E1EA611EA006ED15C /* btn_add@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn_add@1x.png"; sourceTree = "<group>"; };
+		052116401EA621B0006ED15C /* ViewControllerBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerBase.swift; sourceTree = "<group>"; };
+		052116421EA621DD006ED15C /* ViewControllerTableBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerTableBase.swift; sourceTree = "<group>"; };
+		052116441EA62230006ED15C /* ViewControllerCollectionBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerCollectionBase.swift; sourceTree = "<group>"; };
+		052116461EA622CD006ED15C /* ViewSongs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewSongs.swift; sourceTree = "<group>"; };
+		052116481EA622E1006ED15C /* ViewAlbums.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewAlbums.swift; sourceTree = "<group>"; };
+		0521164A1EA622F7006ED15C /* ViewArtists.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewArtists.swift; sourceTree = "<group>"; };
+		0521164C1EA6230B006ED15C /* ViewPlaylists.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewPlaylists.swift; sourceTree = "<group>"; };
+		055B78821F02A20400815E02 /* TableViewCellBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCellBase.swift; sourceTree = "<group>"; };
+		055B78851F02BD8600815E02 /* TableViewCellSong.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCellSong.swift; sourceTree = "<group>"; };
+		055B78871F02C04D00815E02 /* TableViewCellArtist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCellArtist.swift; sourceTree = "<group>"; };
+		055B78891F02C0A300815E02 /* TableViewCellPlaylist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCellPlaylist.swift; sourceTree = "<group>"; };
+		055B788C1F02D54100815E02 /* ListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		055B788F1F02D96B00815E02 /* Label.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Label.swift; sourceTree = "<group>"; };
+		055B78911F02FCE600815E02 /* Protocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Protocol.swift; sourceTree = "<group>"; };
+		055B78941F03047000815E02 /* AddView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		05721BD31EA362C2003796D8 /* SQL_Zing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SQL_Zing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05721BD61EA362C2003796D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05721BD81EA362C3003796D8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +78,23 @@
 		05721BDD1EA362C3003796D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05721BE01EA362C3003796D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		05721BE21EA362C3003796D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05721BE81EA36777003796D8 /* SQL_Zing_-Briding-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SQL_Zing_-Briding-Header.h"; sourceTree = "<group>"; };
+		05721BE91EA36866003796D8 /* DataBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataBase.swift; sourceTree = "<group>"; };
+		05721BEB1EA3F248003796D8 /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
+		05D87A291EA89E8500C975DC /* Chỉ Mong Trái Tim Người.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chỉ Mong Trái Tim Người.jpg"; sourceTree = "<group>"; };
+		05D87A2A1EA89E8500C975DC /* Chiến Binh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chiến Binh.jpg"; sourceTree = "<group>"; };
+		05D87A2B1EA89E8500C975DC /* Tình Yêu Nhạt Màu (Bí Mật Bị Thời Gian Vùi Lấp OST).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Tình Yêu Nhạt Màu (Bí Mật Bị Thời Gian Vùi Lấp OST).jpg"; sourceTree = "<group>"; };
+		05D87A321EA8A04A00C975DC /* Anh Cứ Đi Đi - Hari Won.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Anh Cứ Đi Đi - Hari Won.jpg"; sourceTree = "<group>"; };
+		05D87A331EA8A04B00C975DC /* Điệp Khúc Mùa Xuân.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Điệp Khúc Mùa Xuân.jpg"; sourceTree = "<group>"; };
+		05D87A3D1EA8A06B00C975DC /* Đếm Ngày Xa Em.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Đếm Ngày Xa Em.jpg"; sourceTree = "<group>"; };
+		05D87A3E1EA8A06B00C975DC /* LOUHOANG.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LOUHOANG.jpg; sourceTree = "<group>"; };
+		05D87A3F1EA8A06B00C975DC /* Yêu Một Người Có Lẽ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Yêu Một Người Có Lẽ.jpg"; sourceTree = "<group>"; };
+		05D87A441EA8A08E00C975DC /* Anh Bỏ Thuốc Em Sẽ Yêu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Anh Bỏ Thuốc Em Sẽ Yêu.jpg"; sourceTree = "<group>"; };
+		05D87A451EA8A08E00C975DC /* Gái Nhà Lành.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Gái Nhà Lành.jpg"; sourceTree = "<group>"; };
+		05D87A461EA8A08E00C975DC /* LYNA THÙY LINH.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "LYNA THÙY LINH.jpg"; sourceTree = "<group>"; };
+		084191BD1487C4F0DBB52027 /* Pods-SQL_Zing.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SQL_Zing.release.xcconfig"; path = "Pods/Target Support Files/Pods-SQL_Zing/Pods-SQL_Zing.release.xcconfig"; sourceTree = "<group>"; };
+		7C754495EB05B266C04AC117 /* Pods_SQL_Zing.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SQL_Zing.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE67704843AF438061544E0B /* Pods-SQL_Zing.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SQL_Zing.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SQL_Zing/Pods-SQL_Zing.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +102,109 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05721BEC1EA3F248003796D8 /* libsqlite3.0.tbd in Frameworks */,
+				58EC5F0E8F96C67E3DC3F076 /* Pods_SQL_Zing.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		050C2F211EA69AD800D6D701 /* Albums */ = {
+			isa = PBXGroup;
+			children = (
+				050C2F221EA69AED00D6D701 /* Anh Bỏ Thuốc Em Sẽ Yêu - Lyna Thùy Linh.jpg */,
+				050C2F231EA69AED00D6D701 /* Anh Cứ Đi Đi.jpg */,
+				050C2F241EA69AED00D6D701 /* Bí Mật Bị Thời Gian Vùi Lấp.jpg */,
+				050C2F251EA69AED00D6D701 /* Đếm Ngày Xa Em - Lou Hoàng,OnlyC.jpg */,
+			);
+			name = Albums;
+			sourceTree = "<group>";
+		};
+		0521162D1EA5FD49006ED15C /* Database */ = {
+			isa = PBXGroup;
+			children = (
+				05721BE91EA36866003796D8 /* DataBase.swift */,
+			);
+			name = Database;
+			sourceTree = "<group>";
+		};
+		0521162E1EA5FDDD006ED15C /* ViewBase */ = {
+			isa = PBXGroup;
+			children = (
+				052116401EA621B0006ED15C /* ViewControllerBase.swift */,
+				052116421EA621DD006ED15C /* ViewControllerTableBase.swift */,
+				052116441EA62230006ED15C /* ViewControllerCollectionBase.swift */,
+			);
+			name = ViewBase;
+			sourceTree = "<group>";
+		};
+		052116351EA5FFA0006ED15C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				052116461EA622CD006ED15C /* ViewSongs.swift */,
+				052116481EA622E1006ED15C /* ViewAlbums.swift */,
+				0521164A1EA622F7006ED15C /* ViewArtists.swift */,
+				0521164C1EA6230B006ED15C /* ViewPlaylists.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		055B78811F02A1B900815E02 /* UITableViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				055B78821F02A20400815E02 /* TableViewCellBase.swift */,
+				055B78851F02BD8600815E02 /* TableViewCellSong.swift */,
+				055B78871F02C04D00815E02 /* TableViewCellArtist.swift */,
+				055B78891F02C0A300815E02 /* TableViewCellPlaylist.swift */,
+			);
+			name = UITableViewCell;
+			sourceTree = "<group>";
+		};
+		055B78841F02AF5E00815E02 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				055B78931F03044300815E02 /* AddView */,
+				055B788E1F02D93600815E02 /* Model */,
+				055B788B1F02D50A00815E02 /* ListView */,
+				050C2F211EA69AD800D6D701 /* Albums */,
+				05D87A2F1EA89E8E00C975DC /* Artits */,
+			);
+			name = Resource;
+			sourceTree = "<group>";
+		};
+		055B788B1F02D50A00815E02 /* ListView */ = {
+			isa = PBXGroup;
+			children = (
+				055B788C1F02D54100815E02 /* ListView.swift */,
+			);
+			name = ListView;
+			sourceTree = "<group>";
+		};
+		055B788E1F02D93600815E02 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				055B788F1F02D96B00815E02 /* Label.swift */,
+				055B78911F02FCE600815E02 /* Protocol.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		055B78931F03044300815E02 /* AddView */ = {
+			isa = PBXGroup;
+			children = (
+				055B78941F03047000815E02 /* AddView.swift */,
+			);
+			name = AddView;
+			sourceTree = "<group>";
+		};
 		05721BCA1EA362C2003796D8 = {
 			isa = PBXGroup;
 			children = (
 				05721BD51EA362C2003796D8 /* SQL_Zing */,
 				05721BD41EA362C2003796D8 /* Products */,
+				357CC31E12CF0FE4A15C1DB3 /* Pods */,
+				3147012A7623A6DB77A1E14D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +219,98 @@
 		05721BD51EA362C2003796D8 /* SQL_Zing */ = {
 			isa = PBXGroup;
 			children = (
+				055B78841F02AF5E00815E02 /* Resource */,
+				055B78811F02A1B900815E02 /* UITableViewCell */,
+				052116351EA5FFA0006ED15C /* Views */,
+				0521162E1EA5FDDD006ED15C /* ViewBase */,
+				0521162D1EA5FD49006ED15C /* Database */,
 				05721BD61EA362C2003796D8 /* AppDelegate.swift */,
 				05721BD81EA362C3003796D8 /* ViewController.swift */,
 				05721BDA1EA362C3003796D8 /* Main.storyboard */,
 				05721BDD1EA362C3003796D8 /* Assets.xcassets */,
+				0521163E1EA611EA006ED15C /* btn_add@1x.png */,
 				05721BDF1EA362C3003796D8 /* LaunchScreen.storyboard */,
 				05721BE21EA362C3003796D8 /* Info.plist */,
+				05721BE81EA36777003796D8 /* SQL_Zing_-Briding-Header.h */,
 			);
 			path = SQL_Zing;
+			sourceTree = "<group>";
+		};
+		05D87A2F1EA89E8E00C975DC /* Artits */ = {
+			isa = PBXGroup;
+			children = (
+				05D87A4A1EA8A0A000C975DC /* Mai Fin */,
+				05D87A431EA8A07D00C975DC /* Lyna thuy LInh */,
+				05D87A3C1EA8A05100C975DC /* Lou Hoang */,
+				05D87A311EA8A03C00C975DC /* HariWon */,
+				05D87A301EA89E9500C975DC /* Chi Thien */,
+			);
+			name = Artits;
+			sourceTree = "<group>";
+		};
+		05D87A301EA89E9500C975DC /* Chi Thien */ = {
+			isa = PBXGroup;
+			children = (
+				05D87A2A1EA89E8500C975DC /* Chiến Binh.jpg */,
+				05D87A2B1EA89E8500C975DC /* Tình Yêu Nhạt Màu (Bí Mật Bị Thời Gian Vùi Lấp OST).jpg */,
+				05D87A291EA89E8500C975DC /* Chỉ Mong Trái Tim Người.jpg */,
+			);
+			name = "Chi Thien";
+			sourceTree = "<group>";
+		};
+		05D87A311EA8A03C00C975DC /* HariWon */ = {
+			isa = PBXGroup;
+			children = (
+				05D87A321EA8A04A00C975DC /* Anh Cứ Đi Đi - Hari Won.jpg */,
+				05D87A331EA8A04B00C975DC /* Điệp Khúc Mùa Xuân.jpg */,
+			);
+			name = HariWon;
+			sourceTree = "<group>";
+		};
+		05D87A3C1EA8A05100C975DC /* Lou Hoang */ = {
+			isa = PBXGroup;
+			children = (
+				05D87A3D1EA8A06B00C975DC /* Đếm Ngày Xa Em.jpg */,
+				05D87A3E1EA8A06B00C975DC /* LOUHOANG.jpg */,
+				05D87A3F1EA8A06B00C975DC /* Yêu Một Người Có Lẽ.jpg */,
+			);
+			name = "Lou Hoang";
+			sourceTree = "<group>";
+		};
+		05D87A431EA8A07D00C975DC /* Lyna thuy LInh */ = {
+			isa = PBXGroup;
+			children = (
+				05D87A441EA8A08E00C975DC /* Anh Bỏ Thuốc Em Sẽ Yêu.jpg */,
+				05D87A451EA8A08E00C975DC /* Gái Nhà Lành.jpg */,
+				05D87A461EA8A08E00C975DC /* LYNA THÙY LINH.jpg */,
+			);
+			name = "Lyna thuy LInh";
+			sourceTree = "<group>";
+		};
+		05D87A4A1EA8A0A000C975DC /* Mai Fin */ = {
+			isa = PBXGroup;
+			children = (
+				050C2F261EA69AED00D6D701 /* Yêu Một Người Không Sai.jpg */,
+			);
+			name = "Mai Fin";
+			sourceTree = "<group>";
+		};
+		3147012A7623A6DB77A1E14D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				05721BEB1EA3F248003796D8 /* libsqlite3.0.tbd */,
+				7C754495EB05B266C04AC117 /* Pods_SQL_Zing.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		357CC31E12CF0FE4A15C1DB3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				BE67704843AF438061544E0B /* Pods-SQL_Zing.debug.xcconfig */,
+				084191BD1487C4F0DBB52027 /* Pods-SQL_Zing.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +320,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 05721BE51EA362C3003796D8 /* Build configuration list for PBXNativeTarget "SQL_Zing" */;
 			buildPhases = (
+				1AC99E782D113B5672CC688F /* [CP] Check Pods Manifest.lock */,
 				05721BCF1EA362C2003796D8 /* Sources */,
 				05721BD01EA362C2003796D8 /* Frameworks */,
 				05721BD11EA362C2003796D8 /* Resources */,
+				1460E0901F49D59E0AF139F5 /* [CP] Embed Pods Frameworks */,
+				A10B1E8321DB2938E6565D77 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -123,13 +375,78 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05D87A381EA8A04B00C975DC /* Điệp Khúc Mùa Xuân.jpg in Resources */,
+				050C2F271EA69AED00D6D701 /* Anh Bỏ Thuốc Em Sẽ Yêu - Lyna Thùy Linh.jpg in Resources */,
+				05D87A481EA8A08E00C975DC /* Gái Nhà Lành.jpg in Resources */,
+				05D87A491EA8A08E00C975DC /* LYNA THÙY LINH.jpg in Resources */,
+				050C2F2A1EA69AED00D6D701 /* Đếm Ngày Xa Em - Lou Hoàng,OnlyC.jpg in Resources */,
+				05D87A471EA8A08E00C975DC /* Anh Bỏ Thuốc Em Sẽ Yêu.jpg in Resources */,
+				050C2F291EA69AED00D6D701 /* Bí Mật Bị Thời Gian Vùi Lấp.jpg in Resources */,
+				05D87A371EA8A04B00C975DC /* Anh Cứ Đi Đi - Hari Won.jpg in Resources */,
 				05721BE11EA362C3003796D8 /* LaunchScreen.storyboard in Resources */,
+				05D87A401EA8A06B00C975DC /* Đếm Ngày Xa Em.jpg in Resources */,
+				05D87A2D1EA89E8500C975DC /* Chiến Binh.jpg in Resources */,
+				05D87A421EA8A06B00C975DC /* Yêu Một Người Có Lẽ.jpg in Resources */,
+				05D87A411EA8A06B00C975DC /* LOUHOANG.jpg in Resources */,
+				05D87A2C1EA89E8500C975DC /* Chỉ Mong Trái Tim Người.jpg in Resources */,
+				05D87A2E1EA89E8500C975DC /* Tình Yêu Nhạt Màu (Bí Mật Bị Thời Gian Vùi Lấp OST).jpg in Resources */,
 				05721BDE1EA362C3003796D8 /* Assets.xcassets in Resources */,
+				0521163F1EA611EB006ED15C /* btn_add@1x.png in Resources */,
+				050C2F281EA69AED00D6D701 /* Anh Cứ Đi Đi.jpg in Resources */,
 				05721BDC1EA362C3003796D8 /* Main.storyboard in Resources */,
+				050C2F2B1EA69AED00D6D701 /* Yêu Một Người Không Sai.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1460E0901F49D59E0AF139F5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SQL_Zing/Pods-SQL_Zing-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1AC99E782D113B5672CC688F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		A10B1E8321DB2938E6565D77 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SQL_Zing/Pods-SQL_Zing-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		05721BCF1EA362C2003796D8 /* Sources */ = {
@@ -137,7 +454,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				05721BD91EA362C3003796D8 /* ViewController.swift in Sources */,
+				052116431EA621DD006ED15C /* ViewControllerTableBase.swift in Sources */,
+				055B78951F03047000815E02 /* AddView.swift in Sources */,
+				055B788D1F02D54100815E02 /* ListView.swift in Sources */,
+				0521164D1EA6230B006ED15C /* ViewPlaylists.swift in Sources */,
+				052116491EA622E1006ED15C /* ViewAlbums.swift in Sources */,
+				05721BEA1EA36866003796D8 /* DataBase.swift in Sources */,
+				055B78901F02D96B00815E02 /* Label.swift in Sources */,
+				052116411EA621B0006ED15C /* ViewControllerBase.swift in Sources */,
+				0521164B1EA622F7006ED15C /* ViewArtists.swift in Sources */,
+				052116451EA62230006ED15C /* ViewControllerCollectionBase.swift in Sources */,
+				055B78861F02BD8600815E02 /* TableViewCellSong.swift in Sources */,
 				05721BD71EA362C2003796D8 /* AppDelegate.swift in Sources */,
+				055B78831F02A20400815E02 /* TableViewCellBase.swift in Sources */,
+				055B788A1F02C0A300815E02 /* TableViewCellPlaylist.swift in Sources */,
+				055B78921F02FCE600815E02 /* Protocol.swift in Sources */,
+				055B78881F02C04D00815E02 /* TableViewCellArtist.swift in Sources */,
+				052116471EA622CD006ED15C /* ViewSongs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +591,7 @@
 		};
 		05721BE61EA362C3003796D8 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BE67704843AF438061544E0B /* Pods-SQL_Zing.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SQL_Zing/Info.plist;
@@ -270,6 +604,7 @@
 		};
 		05721BE71EA362C3003796D8 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 084191BD1487C4F0DBB52027 /* Pods-SQL_Zing.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SQL_Zing/Info.plist;
@@ -299,6 +634,7 @@
 				05721BE71EA362C3003796D8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
